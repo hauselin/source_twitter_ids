@@ -1,0 +1,61 @@
+source,source_type,allsides_rate,community_rate,community_total,community_agree,community_disagree,community_agree_prop,source_type_n,select,twitter_handle_manual,twitter_id,twitter_screen_name,twitter_followers_count,twitter_friends_count,url
+NPR (Online News),news,center,somewhat agree,55241,29341,25900,0.5311453449430676,0,1.0,NPR,5392522.0,NPR,8656095.0,68892.0,https://www.npr.org/
+BBC News,news,center,somewhat agree,48173,25965,22208,0.5389948726465033,1,1.0,BBCNorthAmerica,69329527.0,BBCNorthAmerica,286107.0,793.0,https://www.bbc.com/news
+Wall Street Journal (News),news,center,somewhat disagree,43058,19825,23233,0.4604254726183288,2,1.0,WSJ,3108351.0,WSJ,18518740.0,1023.0,http://wsj.com/__CLIENT_ERROR__
+Associated Press,news,center,somewhat agree,40323,23175,17148,0.5747340227661633,3,1.0,AP,51241574.0,AP,15032683.0,6910.0,https://apnews.com/
+USA TODAY,news,center,somewhat disagree,35138,17018,18120,0.4843189709146793,4,1.0,USATODAY,15754281.0,USATODAY,4272299.0,863.0,https://www.usatoday.com/
+The Hill,news,center,somewhat disagree,32800,14176,18624,0.4321951219512195,5,1.0,thehill,1917731.0,thehill,4112161.0,273.0,https://thehill.com/
+Christian Science Monitor,news,center,somewhat disagree,32220,14338,17882,0.4450031036623215,6,1.0,csmonitor,14857525.0,csmonitor,80061.0,2138.0,
+Reuters,news,center,agree,24330,15845,8485,0.6512535963830661,7,1.0,Reuters,1652541.0,Reuters,23044900.0,1141.0,https://www.reuters.com/
+Forbes,news,center,agree,18565,11827,6738,0.6370589819552922,8,1.0,Forbes,91478624.0,Forbes,16547690.0,5193.0,https://www.forbes.com/
+RealClearPolitics,news,center,somewhat disagree,9339,4231,5108,0.4530463647071421,10,1.0,RealClearNews,20094138.0,RealClearNews,214818.0,1136.0,https://www.realclearpolitics.com/
+Axios,news,center,somewhat disagree,9019,4412,4607,0.4891894888568577,11,1.0,axios,8.00707492346925e+17,axios,559508.0,903.0,https://www.axios.com/
+CNBC,news,center,strongly disagree,8557,2660,5897,0.3108566086245179,12,1.0,CNBC,20402945.0,CNBC,3953351.0,843.0,https://www.cnbc.com/
+Business Insider,news,center,somewhat disagree,7590,3083,4507,0.4061923583662714,13,1.0,businessinsider,20562637.0,businessinsider,3208426.0,374.0,https://www.businessinsider.com/
+FiveThirtyEight,news,center,somewhat agree,7550,4405,3145,0.5834437086092715,14,1.0,FiveThirtyEight,2303751216.0,FiveThirtyEight,1352077.0,301.0,https://fivethirtyeight.com/
+Newsweek,news,center,somewhat disagree,6816,2943,3873,0.4317781690140845,15,1.0,Newsweek,2884771.0,Newsweek,3465134.0,521.0,http://newsweek.com/__CLIENT_ERROR__
+The Week - News,news,center,somewhat agree,6658,3643,3015,0.5471613097026135,16,1.0,TheWeek,16439471.0,TheWeek,132167.0,1493.0,https://www.theweek.com/
+Chicago Tribune,news,center,disagree,5805,2045,3760,0.3522825150732127,17,1.0,chicagotribune,7313362.0,chicagotribune,1126087.0,411.0,http://chicagotribune.com/__CONNECTIONPOOL_ERROR__
+PBS NewsHour,news,center,somewhat agree,5666,3280,2386,0.5788916343099189,18,1.0,NewsHour,14437914.0,NewsHour,1159830.0,120689.0,https://www.pbs.org/newshour/
+C-SPAN,news,center,absolutely agree,5102,3873,1229,0.7591140729125833,19,1.0,cspan,15675138.0,cspan,2105909.0,8714.0,https://www.c-span.org/
+Independent Journal Review,news,center,somewhat agree,2466,1280,1186,0.519059205190592,21,1.0,TheIJR,474464413.0,TheIJR,107209.0,6613.0,https://ijr.com/
+CNN (Online News),news,left,somewhat disagree,89448,44145,45303,0.4935269653877113,0,1.0,CNN,759251.0,CNN,52553642.0,1100.0,https://www.cnn.com/
+HuffPost,news,left,somewhat agree,54556,32727,21829,0.5998790233888115,1,1.0,HuffPost,14511951.0,HuffPost,11460245.0,5623.0,http://huffpost.com/__CLIENT_ERROR__
+Vox,news,left,agree,40430,25948,14482,0.6418006430868167,2,1.0,voxdotcom,2347049341.0,voxdotcom,1019102.0,300.0,https://www.vox.com/
+CNN (Opinion),news,left,absolutely agree,34254,27922,6332,0.8151456764173527,3,1.0,CNNOpinion,259074538.0,CNNOpinion,100017.0,436.0,https://www.cnn.com/opinions
+BuzzFeed News,news,left,strongly agree,29788,21061,8727,0.7070296763797502,4,1.0,BuzzFeedNews,1020058453.0,BuzzFeedNews,1390917.0,4768.0,https://www.buzzfeednews.com/
+MSNBC,news,left,absolutely agree,22698,17902,4796,0.7887038505595206,5,1.0,MSNBC,2836421.0,MSNBC,4088456.0,766.0,https://www.msnbc.com/live
+Daily Beast,news,left,strongly agree,22616,16946,5670,0.7492925362575168,6,1.0,thedailybeast,16012783.0,thedailybeast,1321202.0,1000.0,https://www.thedailybeast.com/
+Salon,news,left,strongly agree,16665,11499,5166,0.69000900090009,7,1.0,Salon,16955991.0,Salon,977468.0,5810.0,https://www.salon.com/about/ways_to_get_salon
+Mother Jones,news,left,absolutely agree,15351,13382,1969,0.871734740407791,8,1.0,MotherJones,18510860.0,MotherJones,861142.0,235.0,https://www.motherjones.com/
+New York Times (Opinion),news,left,absolutely agree,15282,11990,3292,0.7845831697421803,9,1.0,nytopinion,16686144.0,nytopinion,786896.0,1449.0,https://www.nytimes.com/section/opinion
+Democracy Now,news,left,absolutely agree,14479,11758,2721,0.8120726569514469,10,1.0,democracynow,16935292.0,democracynow,787167.0,6543.0,https://www.democracynow.org/
+AlterNet,news,left,absolutely agree,13857,11474,2383,0.8280291549397416,11,1.0,AlterNet,18851248.0,AlterNet,138003.0,15944.0,https://www.alternet.org/
+Slate,news,left,strongly agree,11460,8211,3249,0.7164921465968587,12,1.0,Slate,15164565.0,Slate,1807481.0,661.0,https://slate.com/
+The New Yorker,news,left,absolutely agree,9890,7970,1920,0.8058645096056622,13,1.0,NewYorker,14677919.0,NewYorker,9004128.0,373.0,https://www.newyorker.com/
+Daily Kos,news,left,strongly agree,7711,5635,2076,0.7307742186486837,14,1.0,dailykos,20818801.0,dailykos,292345.0,6910.0,https://podcasts.apple.com/us/podcast/daily-kos-the-brief/id1549983077
+The Intercept,news,left,absolutely agree,5808,4497,1311,0.7742768595041323,15,1.0,theintercept,2329066872.0,theintercept,859113.0,361.0,https://theintercept.com/
+Media Matters,news,left,agree,4601,2931,1670,0.6370354270810693,16,1.0,mmfa,13493302.0,mmfa,443311.0,2437.0,https://www.mediamatters.org/
+ThinkProgress,news,left,absolutely agree,3628,2732,896,0.75303197353914,17,1.0,thinkprogress,55355654.0,thinkprogress,798958.0,888.0,https://thinkprogress.org/
+Vice,news,left,absolutely agree,3178,2507,671,0.7888609188168659,18,1.0,VICE,23818581.0,VICE,2043511.0,10889.0,https://www.vice.com/en
+New York Magazine,news,left,strongly agree,3122,2178,944,0.6976297245355542,19,1.0,NYMag,45564482.0,NYMag,1816378.0,911.0,https://nymag.com/
+TheBlaze.com,news,right,somewhat agree,171421,94394,77027,0.550655987306106,0,1.0,theblaze,10774652.0,theblaze,690524.0,693.0,https://www.theblaze.com/
+Breitbart News,news,right,absolutely agree,45914,35369,10545,0.770331489306094,1,1.0,BreitbartNews,457984599.0,BreitbartNews,1497430.0,112.0,https://www.breitbart.com/
+Fox News (Opinion),news,right,absolutely agree,28853,23373,5480,0.8100717429730011,2,1.0,FoxNewsOpinion,107125748.0,FoxNewsOpinion,141049.0,305.0,https://www.foxnews.com/opinion
+National Review,news,right,strongly agree,23896,16937,6959,0.7087797120857047,3,1.0,NRO,19417492.0,NRO,325642.0,1364.0,https://www.nationalreview.com/
+Townhall,news,right,somewhat disagree,23463,9514,13949,0.405489494097089,4,1.0,townhallcom,28614262.0,townhallcom,167819.0,1062.0,https://townhall.com/
+Daily Mail,news,right,agree,15272,9790,5482,0.641042430591933,5,1.0,DailyMail,380285402.0,DailyMail,323720.0,1819.0,https://www.dailymail.co.uk/
+The American Spectator,news,right,strongly agree,15087,11210,3877,0.7430237953204746,6,1.0,amspectator,16180004.0,amspectator,40025.0,14999.0,https://spectator.org/
+The Daily Caller,news,right,strongly agree,12519,8917,3602,0.7122773384455627,7,1.0,DailyCaller,39308549.0,DailyCaller,730818.0,7554.0,https://dailycaller.com/subscribe/
+The Daily Wire,news,right,strongly agree,11886,8722,3164,0.7338044758539458,8,1.0,realDailyWire,4081106480.0,realDailyWire,525983.0,3272.0,https://www.dailywire.com/subscribe?utm_campaign=SuperTuesday&utm_medium=social&utm_source=twitter&utm_term=supertuesday
+CBN,news,right,agree,10399,6890,3509,0.6625637080488509,9,1.0,CBNNews,26028938.0,CBNNews,145182.0,7373.0,http://cbnnews.com/__CONNECTIONPOOL_ERROR__
+The Federalist,news,right,absolutely agree,10214,7806,2408,0.7642451537105933,10,1.0,FDRLST,1408003598.0,FDRLST,252404.0,737.0,http://thefederalist.com/__CLIENT_ERROR__
+Fox News Latino,news,right,strongly agree,3617,2465,1152,0.6815040088471108,12,1.0,foxnewslatino,161319475.0,foxnewslatino,53171.0,260.0,http://foxnewslatino.com/__CONNECTIONPOOL_ERROR__
+One America News Network (OAN),news,right,agree,3414,2092,1322,0.6127709431751611,13,1.0,OANN,1209936918.0,OANN,1493478.0,66.0,https://www.oann.com/
+Media Research Center,news,right,somewhat disagree,3083,1404,1679,0.4554005838469023,14,1.0,theMRC,20076659.0,theMRC,196705.0,399.0,https://www.facebook.com/mediaresearchcenter
+American Thinker,news,right,agree,2824,1840,984,0.6515580736543909,15,1.0,AmericanThinker,34109146.0,AmericanThinker,41508.0,109.0,https://www.americanthinker.com/
+The Weekly Standard,news,right,agree,2165,1346,819,0.6217090069284065,16,1.0,weeklystandard,17546958.0,weeklystandard,301548.0,11785.0,http://weeklystandard.com/__CLIENT_ERROR__
+The Western Journal,news,right,strongly agree,2099,1564,535,0.7451167222486899,17,1.0,WestJournalism,46520074.0,WestJournalism,37539.0,369.0,https://www.westernjournal.com/
+KSL,news,right,somewhat agree,1800,963,837,0.535,18,1.0,KSLcom,24143255.0,KSLcom,186636.0,424.0,https://www.ksl.com/
+CNSNews.com,news,right,somewhat agree,1724,957,767,0.5551044083526682,19,1.0,cnsnews,34927577.0,cnsnews,112833.0,1084.0,http://www.facebook.com/__CONNECTIONPOOL_ERROR__
+The Gateway Pundit,news,right,agree,1394,905,489,0.6492109038737446,20,1.0,gatewaypundit,19211550.0,gatewaypundit,373587.0,1460.0,https://www.thegatewaypundit.com/
